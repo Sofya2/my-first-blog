@@ -17,7 +17,7 @@ h1, h2, h3, h4 {
 font-family: 'Roboto', sans-serif;
 }
 .date {
-color: #b22222;
+color: #696969;
 }
 .save {
 float: right;
@@ -26,7 +26,7 @@ float: right;
 width: 100%;
 }
 .top-menu, .top-menu:hover, .top-menu:visited {
-color: #b22222;
+color: #000000;
 float: right;
 font-size: 26pt;
 margin-right: 20px;
@@ -35,5 +35,5 @@ margin-right: 20px;
 margin-bottom: 70px;
 }
 .post h1 a, .post h1 a:visited {
-color: #b22222;
+color: #696969;
 }
