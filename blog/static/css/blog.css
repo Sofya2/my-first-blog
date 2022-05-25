@@ -1,14 +1,14 @@
 .page-header {
 background-color: #b22222;
 margin-top: 0;
-padding: 20px 20px 20px 40px;s
+padding: 20px 20px 20px 40px;
 }
 .footer {
 font-size: 16px;
 background-color: #ffa07a;
 text-align: center;
-height: 30px;
-width: 100%;
+padding: 20px 20px 20px 40px;
+margin-top: 0;
 }
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:a
 ctive {
@@ -21,7 +21,11 @@ margin-left: 40px;
 }
 span {
 color: #000000;
+<<<<<<< HEAD
 } 
+=======
+}
+>>>>>>> 9de7ce52d26ac33656c138f41e98834d2a3dfdde
 h1, h2, h3, h4 {
 font-family: 'Roboto', sans-serif;
 }
