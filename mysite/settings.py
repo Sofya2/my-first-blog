@@ -128,3 +128,7 @@ STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 CSRF_COOKIE_SECURE = True
+
+MEDIA_URL = '/media/'
+
+MEDIA_ROOT = '/Users/user/djangogirls/blog/templates/media/'

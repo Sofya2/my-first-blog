@@ -11,18 +11,16 @@ padding: 20px 20px 20px 40px;
 margin-top: 0;
 }
 .page-header h1, .page-header h1 a:visited, .page-header h1 a:active {
-color: #b22222;
+color: #696969;
 font-size: 36pt;
 text-decoration: none;
-}
-h1 a {
-color: #696969;
 }
 .content {
 margin-left: 40px;
 }
 h1, h2, h3, h4 {
 font-family: 'Roboto', sans-serif;
+color: #696969;
 }
 .date {
 color: #696969;
