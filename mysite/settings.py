@@ -131,4 +131,4 @@ CSRF_COOKIE_SECURE = True
 
 MEDIA_URL = '/media/'
 
-MEDIA_ROOT = '/Users/user/djangogirls/blog/templates/media/'
+MEDIA_ROOT = os.path.join(BASE_DIR, 'media/')
