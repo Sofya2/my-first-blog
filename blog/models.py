@@ -6,6 +6,7 @@ class Post(models.Model):
 	author = models.ForeignKey(settings.AUTH_USER_MODEL, on_delete=models.CASCADE)
 	title = models.CharField(max_length=200)
 	post = models.CharField(max_length=200)
+	vaccine = models.CharField(max_length=200, default="Some String")
 	data = models.CharField(max_length=200)
 	text = models.TextField()
 
